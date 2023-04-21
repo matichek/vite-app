@@ -1,4 +1,4 @@
-# Vite App
+# Vite App (vite + react + ts + sass ready)
 
 This is a simple Vite app created for educational purposes.
 
